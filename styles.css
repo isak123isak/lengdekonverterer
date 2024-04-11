@@ -1,0 +1,28 @@
+body {
+  align-items: center;
+}
+
+button {
+  color: white;
+  width: 100px;
+  height: 25px;
+  text-align: center;
+  background-color: red;
+  cursor: pointer;
+  transition: 1s;
+  position: relative;
+  bottom: -50%;
+}
+
+label {
+  color: white;
+  background-color: red;
+  text-align: center;
+  border: 1px solid black;
+  font-size: 14px;
+}
+
+option {
+  background-color: red;
+  color: white;
+}
